@@ -29,8 +29,8 @@ Key achievements include:
 ## 🏫 Academic Context
 
 This report was submitted in partial fulfillment of the requirements for the  
-**Master of Engineering in Data Science and Artificial Intelligence** at AIT,  
-and the **Master of Science in Network Intelligence** at Télécom SudParis.
+**Master of Science in Data Science and Artificial Intelligence** at AIT,  
+and the **Master of Science in Data Science and Network Intelligence** at Télécom SudParis.
 
 Supervised by:
 - Prof. Chaklam Silpasuwanchai (AIT)
